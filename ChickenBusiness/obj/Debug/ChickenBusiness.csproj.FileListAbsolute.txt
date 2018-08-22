@@ -1,0 +1,6 @@
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\bin\Debug\ChickenBusiness.exe.config
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\bin\Debug\ChickenBusiness.exe
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\bin\Debug\ChickenBusiness.pdb
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\obj\Debug\ChickenBusiness.exe
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\obj\Debug\ChickenBusiness.pdb
+c:\users\aardhana\documents\visual studio 2015\Projects\ChickenBusiness\ChickenBusiness\obj\Debug\ChickenBusiness.csprojResolveAssemblyReference.cache
